@@ -1,10 +1,10 @@
 # Refactoring a Difficult-to-Manage Codebase: An Introduction to Object-Oriented Programming (OOP) in Java
 
 ## Introduction
-When joining a new project, encountering a difficult-to-manage codebase is not uncommon. Such codebases often suffer from issues like poor organization, tight coupling, and lack of extensibility. To address these challenges, your team lead has asked you to study key concepts and refactor the codebase. In this report, we will explore the fundamentals of Object-Oriented Programming (OOP) and provide code samples in Java to illustrate its principles.
+When joining a new project, encountering a difficult-to-manage codebase is not uncommon. Such codebases often suffer from issues like poor organization, tight coupling, and lack of extensibility. In this report, we will explore the fundamentals of Object-Oriented Programming (OOP) and provide code samples in Java to illustrate its principles.
 
 ## What is Object-Oriented Programming (OOP)?
-Object-Oriented Programming (OOP) is a programming paradigm that emphasizes the organization of code around objects, which are instances of classes. OOP promotes modular and reusable code by encapsulating data and behavior into objects.
+Object-Oriented Programming (OOP) emphasizes the organization of code around objects, which are instances of classes. OOP promotes modular and reusable code by encapsulating data and behavior into objects.
 
 OOP revolves around four main principles:
 
@@ -17,7 +17,6 @@ OOP revolves around four main principles:
 Here are code samples in Java illustrating the principles of OOP:
 
 ### Encapsulation
-```java
 public class Car {
    private String color;
    private int speed;
@@ -38,7 +37,6 @@ public class Car {
 ```
 
 ### Inheritance
-```java
 public class Vehicle {
    private String color;
    
@@ -63,7 +61,6 @@ public class Car extends Vehicle {
 ```
 
 ### Polymorphism
-```java
 public abstract class Shape {
    public abstract double area();
 }
@@ -98,7 +95,6 @@ public class Circle extends Shape {
 ```
 
 ### Abstraction
-```java
 public abstract class Animal {
    public abstract void makeSound();
 }
@@ -119,7 +115,7 @@ public class Cat extends Animal {
 ```
 
 ## Conclusion
-In this report, we explored the fundamental concepts of Object-Oriented Programming (OOP) and provided code samples in Java to illustrate its principles. By adopting OOP principles like encapsulation, inheritance, polymorphism, and abstraction, we can effectively refactor a difficult-to-manage codebase. OOP promotes modularity, reusability, and maintainability, leading to improved code organization and easier maintenance.
+In this report, we explored the fundamental concepts of Object-Oriented Programming (OOP) and provided code samples in Java to illustrate its principles. By adopting OOP principles like encapsulation, inheritance, polymorphism, and abstraction. OOP promotes modularity, reusability, and maintainability, leading to improved code organization and easier maintenance.
 
 By leveraging the power of OOP, we can transform a complex and unwieldy codebase into a well-structured and manageable system. However, it's important to note that refactoring a codebase requires careful planning and consideration of the existing architecture and requirements. It's always recommended to discuss the refactoring approach with the team and follow best practices to ensure a successful codebase transformation.
 
