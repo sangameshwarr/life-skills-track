@@ -1,4 +1,4 @@
-# Refactoring a Difficult-to-Manage Codebase: An Introduction to Object-Oriented Programming (OOP) in Java
+# Object-Oriented Programming (OOP) in Java
 
 ## Introduction
 When joining a new project, encountering a difficult-to-manage codebase is not uncommon. Such codebases often suffer from issues like poor organization, tight coupling, and lack of extensibility. In this report, we will explore the fundamentals of Object-Oriented Programming (OOP) and provide code samples in Java to illustrate its principles.
