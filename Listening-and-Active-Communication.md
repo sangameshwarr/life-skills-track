@@ -50,14 +50,14 @@
 - **When I am feeling threatened or attacked.** If I am in a situation where I feel threatened or attacked, I might be more likely to use aggressive communication. For example, if someone is yelling at me or threatening me, I might be more likely to yell back or threaten them back.
 - **When I am trying to get my way.** If I am trying to get my way in a situation, I might be more likely to use aggressive communication. For example, if I am trying to get a raise at work, I might be more likely to demand a raise rather than negotiate for a raise.
 - **When I am feeling angry or frustrated.** If I am feeling angry or frustrated, I might be more likely to use aggressive communication. For example, if I am stuck in traffic, I might be more likely to yell at the other drivers or honk my horn excessively.
-### Question 7: When do you switch into Passive Aggressive (sarcasm/gossiping/taunts/silent treatment and others) communication styles in your day to day life?
+### Question 7: When do you switch into Passive Aggressive communication styles in your day to day life?
 ###### Based on my understanding of passive-aggressive communication, I can think of a few situations where I might switch to this style in my day-to-day interactions:
 
 - When I am feeling frustrated or angry, but I don't want to express my feelings directly. For example, if I am feeling frustrated with my boss, I might be more likely to give them the silent treatment or to make sarcastic remarks rather than telling them how I am feeling.
 - When I am trying to manipulate or control someone. For example, if I want my partner to do something for me, I might be more likely to give them the silent treatment or to make sarcastic remarks rather than asking them directly.
 - When I am afraid of conflict. If I am in a situation where I am afraid of conflict, I might be more likely to use passive-aggressive communication. For example, if I am in a meeting and someone says something that I disagree with, I might be more likely to make a sarcastic remark rather than stating my opinion directly.
 
-### Question 8: How can you make your communication assertive? You can analyse the videos and then think what steps you can apply in your own life? (Watch the videos first before answering this question.)
+### Question 8: How can you make your communication assertive? You can analyse the videos and then think what steps you can apply in your own life? 
 
 ###### Here are some tips on how to make your communication assertive:
 
